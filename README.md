@@ -22,3 +22,8 @@ My research interests include grid synchronization, distributed generators, adap
 In my spare time, I like to read books, watch movies, play chess. I’m always eager to learn new things and meet new people. If you want to know more about me or my work, feel free to contact me anytime."
 
 - 👯 I’m looking to collaborate on building power system analysis package in MATLAB language as well as python.
+
+  ## GitHub stats
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
